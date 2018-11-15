@@ -18,6 +18,7 @@
 		<li>Telefono</li>
 		<li>Email</li>
 		<li>1927</li>
+		<li>Hard</li>
 	</ul>
 </footer>
 
